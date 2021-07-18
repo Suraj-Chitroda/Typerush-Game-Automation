@@ -5,9 +5,9 @@ Typing web game called Typerush(https://www.typerush.com/), automated using pyth
 Install all necessary modules and libraries
 
 ## Step 2
-Set screenshot accordinates to get text from the screenshot. You can save the image to verify the screenshot
+Set screenshot cordinates to get text from the screenshot. You can save the image to verify the screenshot
 
 ## Step 3
 Keep the browser window active after running the program as it can type in the browser.
 
-# Happy Typing
+# Enjoy Typing
